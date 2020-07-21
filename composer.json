@@ -1,0 +1,11 @@
+{
+    "name": "mail2binary.com",
+	"description": "Receive webhook from Gmail (new message with signal to buy or sell) and open order in binary.com. And receive balance using link like http://yousitewithscript.com/binary.php?balance",
+	"authoors": [{
+		"name": "ak-flash",
+		"email": "ak-flash@mail.ru"
+	}],
+	"require": {
+        "textalk/websocket": "^1.3"
+    }
+}
