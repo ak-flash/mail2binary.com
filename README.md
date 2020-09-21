@@ -7,4 +7,4 @@ HOWTO:
 	Enable Gmail API in GCP. Receive API token from binary.com.
 	Check all files to change data to your settings (tokens, ids and etc.)
 
-Important: Messages in email box should contains words: SELL or BUY
+Important: Subject of message in email box should contains words: SELL or BUY
